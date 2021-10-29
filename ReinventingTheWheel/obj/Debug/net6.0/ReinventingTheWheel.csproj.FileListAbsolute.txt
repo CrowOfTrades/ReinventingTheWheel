@@ -1,0 +1,16 @@
+C:\Users\Luke\source\repos\ReinventingTheWheel\ReinventingTheWheel\bin\Debug\net6.0\ReinventingTheWheel.exe
+C:\Users\Luke\source\repos\ReinventingTheWheel\ReinventingTheWheel\bin\Debug\net6.0\ReinventingTheWheel.deps.json
+C:\Users\Luke\source\repos\ReinventingTheWheel\ReinventingTheWheel\bin\Debug\net6.0\ReinventingTheWheel.runtimeconfig.json
+C:\Users\Luke\source\repos\ReinventingTheWheel\ReinventingTheWheel\bin\Debug\net6.0\ReinventingTheWheel.dll
+C:\Users\Luke\source\repos\ReinventingTheWheel\ReinventingTheWheel\bin\Debug\net6.0\ref\ReinventingTheWheel.dll
+C:\Users\Luke\source\repos\ReinventingTheWheel\ReinventingTheWheel\bin\Debug\net6.0\ReinventingTheWheel.pdb
+C:\Users\Luke\source\repos\ReinventingTheWheel\ReinventingTheWheel\obj\Debug\net6.0\ReinventingTheWheel.GlobalUsings.g.cs
+C:\Users\Luke\source\repos\ReinventingTheWheel\ReinventingTheWheel\obj\Debug\net6.0\ReinventingTheWheel.csproj.AssemblyReference.cache
+C:\Users\Luke\source\repos\ReinventingTheWheel\ReinventingTheWheel\obj\Debug\net6.0\ReinventingTheWheel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luke\source\repos\ReinventingTheWheel\ReinventingTheWheel\obj\Debug\net6.0\ReinventingTheWheel.AssemblyInfoInputs.cache
+C:\Users\Luke\source\repos\ReinventingTheWheel\ReinventingTheWheel\obj\Debug\net6.0\ReinventingTheWheel.AssemblyInfo.cs
+C:\Users\Luke\source\repos\ReinventingTheWheel\ReinventingTheWheel\obj\Debug\net6.0\ReinventingTheWheel.csproj.CoreCompileInputs.cache
+C:\Users\Luke\source\repos\ReinventingTheWheel\ReinventingTheWheel\obj\Debug\net6.0\ReinventingTheWheel.dll
+C:\Users\Luke\source\repos\ReinventingTheWheel\ReinventingTheWheel\obj\Debug\net6.0\ref\ReinventingTheWheel.dll
+C:\Users\Luke\source\repos\ReinventingTheWheel\ReinventingTheWheel\obj\Debug\net6.0\ReinventingTheWheel.pdb
+C:\Users\Luke\source\repos\ReinventingTheWheel\ReinventingTheWheel\obj\Debug\net6.0\ReinventingTheWheel.genruntimeconfig.cache
